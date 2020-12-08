@@ -1,0 +1,7 @@
+query myQuery{
+countries{
+	name
+	phone
+	capital
+	}
+}
